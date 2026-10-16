@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahzaib-30b550244/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://mshahzaibpersonalportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://shahzaib-portfolio-muhammad-shahzaibs-projects-16858ef3.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShahzaib1423)
 [![Profile Views](https://komarev.com/ghpvc/?username=MuhammadShahzaib1423&style=for-the-badge&color=059669)](https://github.com/MuhammadShahzaib1423)
 
@@ -82,7 +82,7 @@ const shahzaib = {
 | [CoffeeCafe](https://github.com/MuhammadShahzaib1423/CoffeeCafe) | Modern café website with menu, reservations and elegant animations | JavaScript, CSS |
 | [CourseCloud](https://github.com/MuhammadShahzaib1423/CourseCloud) | Course discovery and learning platform | JavaScript, React |
 
-🌐 **Live:** [JobPilot](https://job-application-tracker-muhammad-shahzaibs-projects-16858ef3.vercel.app) · [Portfolio](https://mshahzaibpersonalportfolio.vercel.app/)
+🌐 **Live:** [JobPilot](https://job-application-tracker-muhammad-shahzaibs-projects-16858ef3.vercel.app) · [Portfolio](https://shahzaib-portfolio-muhammad-shahzaibs-projects-16858ef3.vercel.app)
 
 ---
 
