@@ -75,12 +75,14 @@ const shahzaib = {
 
 | Project | Description | Tech |
 |---|---|---|
+| [MediBook](https://github.com/MuhammadShahzaib1423/MediBook) | Doctor appointment booking app with specialist profiles, a 3-step booking flow and appointment management | React, Vite, Tailwind CSS, Framer Motion |
+| [FinFlow](https://github.com/MuhammadShahzaib1423/FinFlow) | Personal finance dashboard with transactions, category budgets, savings goals and interactive charts | React, Vite, Tailwind CSS, Recharts |
+| [CraveHub](https://github.com/MuhammadShahzaib1423/CraveHub) | Food delivery app with restaurant menus, cart, promo codes and animated live order tracking | React, Vite, Tailwind CSS, Framer Motion |
+| [HavenEstates](https://github.com/MuhammadShahzaib1423/HavenEstates) | Real estate platform with property search and filters, photo galleries and an interactive mortgage calculator | React, Vite, Tailwind CSS, Framer Motion |
+| [WanderWise](https://github.com/MuhammadShahzaib1423/WanderWise) | Travel booking website with destination guides, day-by-day itineraries and a 3-step booking flow | React, Vite, Tailwind CSS, Framer Motion |
+| [PulseFit](https://github.com/MuhammadShahzaib1423/PulseFit) | Gym and fitness website with class schedules, trainer booking and an animated BMI calculator | React, Vite, Tailwind CSS, Framer Motion |
 | [JobPilot](https://github.com/MuhammadShahzaib1423/job-application-tracker) | Job application tracker with drag-and-drop kanban pipeline, stats dashboard and interview scheduling — now with Firebase Auth + Firestore backend | React, Firebase, Tailwind |
-| [GlamMart](https://github.com/MuhammadShahzaib1423/GlamMart) | Full-featured e-commerce website with product catalogue, cart and checkout flow | TypeScript, React |
-| [MERN Stack Udemy Clone](https://github.com/MuhammadShahzaib1423/MERN_Stack_Udemy_Clone) | Online learning platform with courses, video content and user dashboards | MongoDB, Express, React, Node.js |
-| [Task Management Fullstack](https://github.com/MuhammadShahzaib1423/Task_management_fullstack) | Full-stack task manager with authentication and real-time updates | React, Node.js |
-| [CoffeeCafe](https://github.com/MuhammadShahzaib1423/CoffeeCafe) | Modern café website with menu, reservations and elegant animations | JavaScript, CSS |
-| [CourseCloud](https://github.com/MuhammadShahzaib1423/CourseCloud) | Course discovery and learning platform | JavaScript, React |
+| [GlamMart](https://github.com/MuhammadShahzaib1423/GlamMart) | Full-featured e-commerce store with product catalogue, cart, wishlist and a 3-step checkout flow | React, Vite, Tailwind CSS, Framer Motion |
 
 🌐 **Live:** [JobPilot](https://job-application-tracker-muhammad-shahzaibs-projects-16858ef3.vercel.app) · [Portfolio](https://shahzaib-portfolio-muhammad-shahzaibs-projects-16858ef3.vercel.app)
 
