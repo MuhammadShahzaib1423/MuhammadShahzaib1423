@@ -75,6 +75,7 @@ const shahzaib = {
 
 | Project | Description | Tech |
 |---|---|---|
+| [PlayArena](https://github.com/MuhammadShahzaib1423/PlayArena) | Indoor sports booking platform with 8 venues for padel, indoor cricket, badminton, futsal, squash and table tennis, with court selection and slot booking | React, Vite, Tailwind CSS, Framer Motion |
 | [MediBook](https://github.com/MuhammadShahzaib1423/MediBook) | Doctor appointment booking app with specialist profiles, a 3-step booking flow and appointment management | React, Vite, Tailwind CSS, Framer Motion |
 | [FinFlow](https://github.com/MuhammadShahzaib1423/FinFlow) | Personal finance dashboard with transactions, category budgets, savings goals and interactive charts | React, Vite, Tailwind CSS, Recharts |
 | [CraveHub](https://github.com/MuhammadShahzaib1423/CraveHub) | Food delivery app with restaurant menus, cart, promo codes and animated live order tracking | React, Vite, Tailwind CSS, Framer Motion |
